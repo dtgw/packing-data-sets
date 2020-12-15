@@ -1,0 +1,1 @@
+The files in this directory are used in classification rule mining experiments. Each data set represents the samples used during a period (identified by file hash) and their associated packer label. Each data set has the time period of the sample collection in the file name. The balanced is a random selection taken from the Merged data set used for training.
